@@ -38,7 +38,6 @@ INDEX VERSION 1.130+/Users/felipe/Downloads/JAVA/WorkSpace/.metadata/.plugins/or
 2621502925.index
 132733048.index
 413850052.index
-423522385.index
 3178653649.index
 2084833509.index
 257222409.index

@@ -1,0 +1,5 @@
+package com.vepilef.cursomc.domain;
+
+public class Categoria {
+
+}
